@@ -1,0 +1,118 @@
+[
+  {
+    "connected": true,
+    "link_age_ms": 50,
+    "age_ms": 100,
+    "line": {
+      "valid": true,
+      "age_ms": 90,
+      "raw": [
+        240,
+        245,
+        260,
+        3100,
+        3050,
+        260,
+        240,
+        235
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "connected": true,
+    "link_age_ms": 50,
+    "age_ms": 100,
+    "line": {
+      "valid": false,
+      "age_ms": 4600,
+      "raw": [
+        240,
+        245,
+        260,
+        3100,
+        3050,
+        260,
+        240,
+        235
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {},
+  {
+    "connected": true,
+    "link_age_ms": 50,
+    "age_ms": 100,
+    "line": {
+      "valid": true,
+      "age_ms": 90,
+      "raw": [
+        240,
+        245,
+        260,
+        3100,
+        3050,
+        260,
+        240,
+        235
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "connected": false,
+    "link_age_ms": 6200,
+    "age_ms": 100,
+    "line": {
+      "valid": true,
+      "age_ms": 90,
+      "raw": [
+        240,
+        245,
+        260,
+        3100,
+        3050,
+        260,
+        240,
+        235
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "connected": true,
+    "link_age_ms": 50,
+    "age_ms": 100,
+    "line": {
+      "valid": true,
+      "age_ms": 90,
+      "raw": [
+        240,
+        245,
+        260,
+        3100,
+        3050,
+        260,
+        240,
+        235
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  }
+]

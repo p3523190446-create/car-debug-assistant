@@ -1,0 +1,3398 @@
+[
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 0,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 56,
+    "age_ms": 82,
+    "line": {
+      "valid": true,
+      "age_ms": 68,
+      "raw": [
+        218,
+        234,
+        296,
+        2096,
+        2106,
+        270,
+        239,
+        254
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 500,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 31,
+    "age_ms": 37,
+    "line": {
+      "valid": true,
+      "age_ms": 66,
+      "raw": [
+        257,
+        261,
+        275,
+        1810,
+        2397,
+        337,
+        239,
+        218
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 1000,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 39,
+    "age_ms": 111,
+    "line": {
+      "valid": true,
+      "age_ms": 102,
+      "raw": [
+        222,
+        242,
+        261,
+        1515,
+        2636,
+        359,
+        255,
+        230
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 1500,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 32,
+    "age_ms": 135,
+    "line": {
+      "valid": true,
+      "age_ms": 35,
+      "raw": [
+        248,
+        258,
+        277,
+        1287,
+        2828,
+        435,
+        237,
+        217
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 2000,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 67,
+    "age_ms": 39,
+    "line": {
+      "valid": true,
+      "age_ms": 119,
+      "raw": [
+        233,
+        241,
+        263,
+        1049,
+        2984,
+        489,
+        241,
+        248
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 2500,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 54,
+    "age_ms": 55,
+    "line": {
+      "valid": true,
+      "age_ms": 57,
+      "raw": [
+        231,
+        216,
+        250,
+        904,
+        3139,
+        607,
+        253,
+        248
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 3000,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 67,
+    "age_ms": 90,
+    "line": {
+      "valid": true,
+      "age_ms": 103,
+      "raw": [
+        235,
+        239,
+        226,
+        761,
+        3156,
+        741,
+        270,
+        247
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 3500,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 66,
+    "age_ms": 129,
+    "line": {
+      "valid": true,
+      "age_ms": 36,
+      "raw": [
+        225,
+        244,
+        259,
+        633,
+        3112,
+        878,
+        240,
+        222
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 4000,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 42,
+    "age_ms": 144,
+    "line": {
+      "valid": true,
+      "age_ms": 121,
+      "raw": [
+        228,
+        265,
+        233,
+        558,
+        3072,
+        978,
+        244,
+        222
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 4500,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 43,
+    "age_ms": 61,
+    "line": {
+      "valid": true,
+      "age_ms": 40,
+      "raw": [
+        231,
+        274,
+        269,
+        484,
+        2984,
+        1126,
+        239,
+        275
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 5000,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 52,
+    "age_ms": 52,
+    "line": {
+      "valid": true,
+      "age_ms": 44,
+      "raw": [
+        237,
+        244,
+        215,
+        505,
+        2948,
+        1204,
+        257,
+        247
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 5500,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 41,
+    "age_ms": 110,
+    "line": {
+      "valid": true,
+      "age_ms": 39,
+      "raw": [
+        255,
+        250,
+        257,
+        424,
+        2831,
+        1326,
+        258,
+        246
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 6000,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 47,
+    "age_ms": 124,
+    "line": {
+      "valid": true,
+      "age_ms": 100,
+      "raw": [
+        227,
+        223,
+        273,
+        387,
+        2754,
+        1390,
+        261,
+        216
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 6500,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 28,
+    "age_ms": 64,
+    "line": {
+      "valid": true,
+      "age_ms": 121,
+      "raw": [
+        208,
+        237,
+        269,
+        397,
+        2734,
+        1435,
+        250,
+        233
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 7000,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 51,
+    "age_ms": 51,
+    "line": {
+      "valid": true,
+      "age_ms": 115,
+      "raw": [
+        232,
+        272,
+        239,
+        389,
+        2696,
+        1440,
+        246,
+        253
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 7500,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 21,
+    "age_ms": 38,
+    "line": {
+      "valid": true,
+      "age_ms": 69,
+      "raw": [
+        246,
+        222,
+        230,
+        365,
+        2731,
+        1427,
+        252,
+        220
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 8000,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 70,
+    "age_ms": 123,
+    "line": {
+      "valid": true,
+      "age_ms": 57,
+      "raw": [
+        242,
+        239,
+        245,
+        409,
+        2787,
+        1405,
+        279,
+        254
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 8500,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 40,
+    "age_ms": 80,
+    "line": {
+      "valid": true,
+      "age_ms": 88,
+      "raw": [
+        246,
+        224,
+        239,
+        407,
+        2822,
+        1348,
+        271,
+        211
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 9000,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 24,
+    "age_ms": 147,
+    "line": {
+      "valid": true,
+      "age_ms": 120,
+      "raw": [
+        225,
+        242,
+        228,
+        417,
+        2887,
+        1267,
+        260,
+        248
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 9500,
+      "stage": "normal"
+    },
+    "connected": true,
+    "link_age_ms": 67,
+    "age_ms": 132,
+    "line": {
+      "valid": true,
+      "age_ms": 81,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 10000,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 30,
+    "age_ms": 148,
+    "line": {
+      "valid": true,
+      "age_ms": 1700,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 10500,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 28,
+    "age_ms": 99,
+    "line": {
+      "valid": true,
+      "age_ms": 2200,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 11000,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 73,
+    "age_ms": 141,
+    "line": {
+      "valid": true,
+      "age_ms": 2700,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 11500,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 50,
+    "age_ms": 50,
+    "line": {
+      "valid": true,
+      "age_ms": 3200,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 12000,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 22,
+    "age_ms": 62,
+    "line": {
+      "valid": true,
+      "age_ms": 3700,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 12500,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 66,
+    "age_ms": 130,
+    "line": {
+      "valid": true,
+      "age_ms": 4200,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 13000,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 74,
+    "age_ms": 33,
+    "line": {
+      "valid": true,
+      "age_ms": 4700,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 13500,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 27,
+    "age_ms": 32,
+    "line": {
+      "valid": true,
+      "age_ms": 5200,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 14000,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 73,
+    "age_ms": 112,
+    "line": {
+      "valid": true,
+      "age_ms": 5700,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 14500,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 33,
+    "age_ms": 86,
+    "line": {
+      "valid": true,
+      "age_ms": 6200,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 15000,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 32,
+    "age_ms": 129,
+    "line": {
+      "valid": true,
+      "age_ms": 6700,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 15500,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 56,
+    "age_ms": 117,
+    "line": {
+      "valid": true,
+      "age_ms": 7200,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 16000,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 70,
+    "age_ms": 55,
+    "line": {
+      "valid": true,
+      "age_ms": 7700,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 16500,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 22,
+    "age_ms": 58,
+    "line": {
+      "valid": true,
+      "age_ms": 8200,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 17000,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 48,
+    "age_ms": 55,
+    "line": {
+      "valid": true,
+      "age_ms": 8700,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 17500,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 67,
+    "age_ms": 69,
+    "line": {
+      "valid": true,
+      "age_ms": 9200,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 18000,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 47,
+    "age_ms": 102,
+    "line": {
+      "valid": true,
+      "age_ms": 9700,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 18500,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 37,
+    "age_ms": 116,
+    "line": {
+      "valid": true,
+      "age_ms": 10200,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 19000,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 50,
+    "age_ms": 98,
+    "line": {
+      "valid": true,
+      "age_ms": 10700,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 19500,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 82,
+    "age_ms": 89,
+    "line": {
+      "valid": true,
+      "age_ms": 11200,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 20000,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 26,
+    "age_ms": 71,
+    "line": {
+      "valid": true,
+      "age_ms": 11700,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 20500,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 78,
+    "age_ms": 93,
+    "line": {
+      "valid": true,
+      "age_ms": 12200,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 21000,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 69,
+    "age_ms": 38,
+    "line": {
+      "valid": true,
+      "age_ms": 12700,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 21500,
+      "stage": "line_stalled"
+    },
+    "connected": true,
+    "link_age_ms": 43,
+    "age_ms": 61,
+    "line": {
+      "valid": true,
+      "age_ms": 13200,
+      "raw": [
+        247,
+        254,
+        267,
+        478,
+        2946,
+        1137,
+        230,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 22000,
+      "stage": "missing_fields"
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 22500,
+      "stage": "missing_fields"
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 23000,
+      "stage": "missing_fields"
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 23500,
+      "stage": "missing_fields"
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 24000,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 85,
+    "age_ms": 129,
+    "line": {
+      "valid": true,
+      "age_ms": 49,
+      "raw": [
+        241,
+        257,
+        1054,
+        3032,
+        515,
+        242,
+        236,
+        260
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 24500,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 46,
+    "age_ms": 135,
+    "line": {
+      "valid": true,
+      "age_ms": 94,
+      "raw": [
+        224,
+        288,
+        915,
+        3086,
+        579,
+        244,
+        241,
+        251
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 25000,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 21,
+    "age_ms": 92,
+    "line": {
+      "valid": true,
+      "age_ms": 67,
+      "raw": [
+        274,
+        259,
+        800,
+        3127,
+        671,
+        251,
+        221,
+        231
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 25500,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 43,
+    "age_ms": 123,
+    "line": {
+      "valid": true,
+      "age_ms": 45,
+      "raw": [
+        256,
+        245,
+        664,
+        3132,
+        805,
+        243,
+        254,
+        265
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 26000,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 72,
+    "age_ms": 100,
+    "line": {
+      "valid": true,
+      "age_ms": 90,
+      "raw": [
+        277,
+        255,
+        539,
+        3040,
+        966,
+        233,
+        229,
+        236
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 26500,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 62,
+    "age_ms": 54,
+    "line": {
+      "valid": true,
+      "age_ms": 40,
+      "raw": [
+        248,
+        246,
+        481,
+        2969,
+        1138,
+        239,
+        224,
+        264
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 27000,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 79,
+    "age_ms": 47,
+    "line": {
+      "valid": true,
+      "age_ms": 102,
+      "raw": [
+        237,
+        244,
+        365,
+        2800,
+        1386,
+        272,
+        264,
+        244
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 27500,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 67,
+    "age_ms": 62,
+    "line": {
+      "valid": true,
+      "age_ms": 29,
+      "raw": [
+        228,
+        255,
+        343,
+        2518,
+        1626,
+        288,
+        240,
+        237
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 28000,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 21,
+    "age_ms": 44,
+    "line": {
+      "valid": true,
+      "age_ms": 120,
+      "raw": [
+        245,
+        247,
+        300,
+        2247,
+        1929,
+        264,
+        255,
+        225
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 28500,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 53,
+    "age_ms": 47,
+    "line": {
+      "valid": true,
+      "age_ms": 118,
+      "raw": [
+        245,
+        246,
+        311,
+        1975,
+        2210,
+        309,
+        247,
+        265
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 29000,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 63,
+    "age_ms": 51,
+    "line": {
+      "valid": true,
+      "age_ms": 82,
+      "raw": [
+        254,
+        262,
+        294,
+        1696,
+        2526,
+        356,
+        250,
+        251
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 29500,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 43,
+    "age_ms": 64,
+    "line": {
+      "valid": true,
+      "age_ms": 40,
+      "raw": [
+        250,
+        254,
+        250,
+        1417,
+        2744,
+        404,
+        233,
+        257
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 30000,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 84,
+    "age_ms": 72,
+    "line": {
+      "valid": true,
+      "age_ms": 80,
+      "raw": [
+        238,
+        231,
+        229,
+        1199,
+        2919,
+        456,
+        267,
+        230
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 30500,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 39,
+    "age_ms": 76,
+    "line": {
+      "valid": true,
+      "age_ms": 55,
+      "raw": [
+        228,
+        257,
+        243,
+        969,
+        3069,
+        525,
+        233,
+        266
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 31000,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 74,
+    "age_ms": 129,
+    "line": {
+      "valid": true,
+      "age_ms": 52,
+      "raw": [
+        249,
+        217,
+        252,
+        823,
+        3146,
+        660,
+        262,
+        249
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 31500,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 72,
+    "age_ms": 83,
+    "line": {
+      "valid": true,
+      "age_ms": 115,
+      "raw": [
+        232,
+        246,
+        256,
+        730,
+        3132,
+        779,
+        251,
+        242
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 32000,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 56,
+    "age_ms": 102,
+    "line": {
+      "valid": true,
+      "age_ms": 77,
+      "raw": [
+        227,
+        262,
+        220,
+        560,
+        3079,
+        896,
+        246,
+        250
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 32500,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 29,
+    "age_ms": 53,
+    "line": {
+      "valid": true,
+      "age_ms": 85,
+      "raw": [
+        244,
+        279,
+        260,
+        537,
+        3015,
+        1027,
+        280,
+        279
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 33000,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 46,
+    "age_ms": 33,
+    "line": {
+      "valid": true,
+      "age_ms": 119,
+      "raw": [
+        221,
+        252,
+        220,
+        454,
+        2948,
+        1185,
+        234,
+        231
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 33500,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 47,
+    "age_ms": 92,
+    "line": {
+      "valid": true,
+      "age_ms": 105,
+      "raw": [
+        200,
+        248,
+        218,
+        427,
+        2877,
+        1257,
+        237,
+        232
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 34000,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 48,
+    "age_ms": 49,
+    "line": {
+      "valid": true,
+      "age_ms": 72,
+      "raw": [
+        271,
+        249,
+        203,
+        416,
+        2802,
+        1335,
+        262,
+        232
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 34500,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 36,
+    "age_ms": 138,
+    "line": {
+      "valid": true,
+      "age_ms": 28,
+      "raw": [
+        208,
+        243,
+        237,
+        371,
+        2780,
+        1391,
+        241,
+        257
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 35000,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 29,
+    "age_ms": 80,
+    "line": {
+      "valid": true,
+      "age_ms": 52,
+      "raw": [
+        234,
+        211,
+        233,
+        376,
+        2733,
+        1468,
+        265,
+        230
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 35500,
+      "stage": "line_restored"
+    },
+    "connected": true,
+    "link_age_ms": 61,
+    "age_ms": 55,
+    "line": {
+      "valid": true,
+      "age_ms": 91,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 36000,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 3200,
+    "age_ms": 105,
+    "line": {
+      "valid": true,
+      "age_ms": 550,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 36500,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 3700,
+    "age_ms": 81,
+    "line": {
+      "valid": true,
+      "age_ms": 1050,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 37000,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 4200,
+    "age_ms": 57,
+    "line": {
+      "valid": true,
+      "age_ms": 1550,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 37500,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 4700,
+    "age_ms": 93,
+    "line": {
+      "valid": true,
+      "age_ms": 2050,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 38000,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 5200,
+    "age_ms": 77,
+    "line": {
+      "valid": true,
+      "age_ms": 2550,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 38500,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 5700,
+    "age_ms": 116,
+    "line": {
+      "valid": true,
+      "age_ms": 3050,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 39000,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 6200,
+    "age_ms": 125,
+    "line": {
+      "valid": true,
+      "age_ms": 3550,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 39500,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 6700,
+    "age_ms": 69,
+    "line": {
+      "valid": true,
+      "age_ms": 4050,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 40000,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 7200,
+    "age_ms": 139,
+    "line": {
+      "valid": true,
+      "age_ms": 4550,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 40500,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 7700,
+    "age_ms": 141,
+    "line": {
+      "valid": true,
+      "age_ms": 5050,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 41000,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 8200,
+    "age_ms": 79,
+    "line": {
+      "valid": true,
+      "age_ms": 5550,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 41500,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 8700,
+    "age_ms": 52,
+    "line": {
+      "valid": true,
+      "age_ms": 6050,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 42000,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 9200,
+    "age_ms": 103,
+    "line": {
+      "valid": true,
+      "age_ms": 6550,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 42500,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 9700,
+    "age_ms": 64,
+    "line": {
+      "valid": true,
+      "age_ms": 7050,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 43000,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 10200,
+    "age_ms": 77,
+    "line": {
+      "valid": true,
+      "age_ms": 7550,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 43500,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 10700,
+    "age_ms": 30,
+    "line": {
+      "valid": true,
+      "age_ms": 8050,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 44000,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 11200,
+    "age_ms": 121,
+    "line": {
+      "valid": true,
+      "age_ms": 8550,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 44500,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 11700,
+    "age_ms": 92,
+    "line": {
+      "valid": true,
+      "age_ms": 9050,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 45000,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 12200,
+    "age_ms": 124,
+    "line": {
+      "valid": true,
+      "age_ms": 9550,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 45500,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 12700,
+    "age_ms": 105,
+    "line": {
+      "valid": true,
+      "age_ms": 10050,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 46000,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 13200,
+    "age_ms": 139,
+    "line": {
+      "valid": true,
+      "age_ms": 10550,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 46500,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 13700,
+    "age_ms": 51,
+    "line": {
+      "valid": true,
+      "age_ms": 11050,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 47000,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 14200,
+    "age_ms": 117,
+    "line": {
+      "valid": true,
+      "age_ms": 11550,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 47500,
+      "stage": "disconnected"
+    },
+    "connected": false,
+    "link_age_ms": 14700,
+    "age_ms": 47,
+    "line": {
+      "valid": true,
+      "age_ms": 12050,
+      "raw": [
+        264,
+        224,
+        221,
+        372,
+        2685,
+        1421,
+        245,
+        234
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 48000,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 63,
+    "age_ms": 87,
+    "line": {
+      "valid": true,
+      "age_ms": 78,
+      "raw": [
+        250,
+        232,
+        1307,
+        2803,
+        408,
+        225,
+        220,
+        258
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 48500,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 20,
+    "age_ms": 54,
+    "line": {
+      "valid": true,
+      "age_ms": 56,
+      "raw": [
+        246,
+        264,
+        1394,
+        2802,
+        407,
+        242,
+        245,
+        221
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 49000,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 42,
+    "age_ms": 147,
+    "line": {
+      "valid": true,
+      "age_ms": 114,
+      "raw": [
+        237,
+        229,
+        1471,
+        2702,
+        411,
+        243,
+        262,
+        228
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 49500,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 72,
+    "age_ms": 49,
+    "line": {
+      "valid": true,
+      "age_ms": 119,
+      "raw": [
+        226,
+        274,
+        1465,
+        2685,
+        374,
+        257,
+        265,
+        224
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 50000,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 40,
+    "age_ms": 65,
+    "line": {
+      "valid": true,
+      "age_ms": 43,
+      "raw": [
+        224,
+        270,
+        1409,
+        2722,
+        385,
+        232,
+        236,
+        280
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 50500,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 79,
+    "age_ms": 64,
+    "line": {
+      "valid": true,
+      "age_ms": 87,
+      "raw": [
+        239,
+        269,
+        1388,
+        2766,
+        397,
+        257,
+        207,
+        274
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 51000,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 74,
+    "age_ms": 66,
+    "line": {
+      "valid": true,
+      "age_ms": 120,
+      "raw": [
+        209,
+        242,
+        1323,
+        2828,
+        425,
+        258,
+        215,
+        263
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 51500,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 40,
+    "age_ms": 86,
+    "line": {
+      "valid": true,
+      "age_ms": 126,
+      "raw": [
+        250,
+        284,
+        1235,
+        2867,
+        433,
+        256,
+        239,
+        252
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 52000,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 51,
+    "age_ms": 60,
+    "line": {
+      "valid": true,
+      "age_ms": 47,
+      "raw": [
+        244,
+        235,
+        1129,
+        3013,
+        486,
+        239,
+        278,
+        234
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 52500,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 61,
+    "age_ms": 41,
+    "line": {
+      "valid": true,
+      "age_ms": 28,
+      "raw": [
+        229,
+        254,
+        977,
+        3051,
+        513,
+        218,
+        244,
+        210
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 53000,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 79,
+    "age_ms": 48,
+    "line": {
+      "valid": true,
+      "age_ms": 52,
+      "raw": [
+        221,
+        234,
+        846,
+        3114,
+        637,
+        246,
+        275,
+        240
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 53500,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 35,
+    "age_ms": 132,
+    "line": {
+      "valid": true,
+      "age_ms": 39,
+      "raw": [
+        248,
+        258,
+        753,
+        3115,
+        730,
+        231,
+        244,
+        249
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 54000,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 42,
+    "age_ms": 52,
+    "line": {
+      "valid": true,
+      "age_ms": 90,
+      "raw": [
+        210,
+        210,
+        627,
+        3096,
+        851,
+        277,
+        222,
+        209
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 54500,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 30,
+    "age_ms": 105,
+    "line": {
+      "valid": true,
+      "age_ms": 128,
+      "raw": [
+        255,
+        255,
+        506,
+        3035,
+        1000,
+        255,
+        240,
+        203
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 55000,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 37,
+    "age_ms": 46,
+    "line": {
+      "valid": true,
+      "age_ms": 50,
+      "raw": [
+        275,
+        272,
+        418,
+        2861,
+        1278,
+        268,
+        239,
+        229
+      ],
+      "digital_mask": 247
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 55500,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 54,
+    "age_ms": 43,
+    "line": {
+      "valid": true,
+      "age_ms": 68,
+      "raw": [
+        216,
+        269,
+        380,
+        2677,
+        1516,
+        242,
+        254,
+        223
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 56000,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 52,
+    "age_ms": 143,
+    "line": {
+      "valid": true,
+      "age_ms": 82,
+      "raw": [
+        248,
+        257,
+        339,
+        2427,
+        1783,
+        267,
+        239,
+        223
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 56500,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 39,
+    "age_ms": 138,
+    "line": {
+      "valid": true,
+      "age_ms": 95,
+      "raw": [
+        265,
+        222,
+        300,
+        2113,
+        2088,
+        308,
+        222,
+        273
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 57000,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 29,
+    "age_ms": 87,
+    "line": {
+      "valid": true,
+      "age_ms": 79,
+      "raw": [
+        259,
+        235,
+        300,
+        1827,
+        2374,
+        347,
+        220,
+        230
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 57500,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 51,
+    "age_ms": 141,
+    "line": {
+      "valid": true,
+      "age_ms": 28,
+      "raw": [
+        228,
+        238,
+        256,
+        1544,
+        2640,
+        347,
+        228,
+        254
+      ],
+      "digital_mask": 231
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 58000,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 62,
+    "age_ms": 45,
+    "line": {
+      "valid": true,
+      "age_ms": 93,
+      "raw": [
+        240,
+        224,
+        236,
+        1310,
+        2825,
+        413,
+        251,
+        246
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 58500,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 52,
+    "age_ms": 121,
+    "line": {
+      "valid": true,
+      "age_ms": 47,
+      "raw": [
+        287,
+        220,
+        278,
+        1071,
+        3008,
+        496,
+        235,
+        238
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 59000,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 26,
+    "age_ms": 31,
+    "line": {
+      "valid": true,
+      "age_ms": 99,
+      "raw": [
+        261,
+        231,
+        249,
+        896,
+        3106,
+        612,
+        226,
+        226
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  },
+  {
+    "simulation": {
+      "synthetic": true,
+      "seed": 20261030,
+      "time_ms": 59500,
+      "stage": "link_restored"
+    },
+    "connected": true,
+    "link_age_ms": 50,
+    "age_ms": 77,
+    "line": {
+      "valid": true,
+      "age_ms": 76,
+      "raw": [
+        247,
+        226,
+        258,
+        741,
+        3158,
+        710,
+        270,
+        239
+      ],
+      "digital_mask": 239
+    },
+    "capabilities": {
+      "drive_control": true
+    }
+  }
+]
